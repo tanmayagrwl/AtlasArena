@@ -4,7 +4,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "dev": "bun index.ts"
+    "dev": "bun --hot index.ts"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.2",
